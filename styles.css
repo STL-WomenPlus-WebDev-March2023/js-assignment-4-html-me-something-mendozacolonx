@@ -1,1 +1,50 @@
 /* Write your CSS here! */
+body {
+    border: 1px solid #BDE0FE;
+    margin: 8px;
+    display: block;
+    padding: 25px 25px 25px 25px;
+
+  }
+
+section{
+    border: 1px solid #A2D2FF;
+    padding: 25px 25px 25px 25px;
+}
+
+#April{
+    text-align: center;
+}
+#January{
+    text-align: center;
+}
+#March{
+    text-align: center;
+}
+#February{
+    text-align: center;
+}
+p.Rating{
+ font-size: 18px;
+ font-style: italic;
+ color: #CDB4DB;
+}
+header{
+    border: 1px solid #A2D2FF;
+    background-color: #CDB4DB;
+    padding: 25px 25px 25px 25px;
+    text-align: center;
+}
+main{
+    background-color: #FFC8DD;
+}
+html{
+    background-color: #FFAFCC;
+}
+#mainHeading{
+    color: red;
+}
+p.funParagraph{
+
+color: green;
+}
